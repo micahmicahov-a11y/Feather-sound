@@ -10,7 +10,7 @@ Unlike heavy TUI frameworks that cause screen tearing and terminal flashing, Fea
 
 # Controls (kinda broken)
 play/pause - 1
-# other controls don't work properly
+other controls don't work properly
 
 # Quick Start
 Clone the repo and run the launcher. It handles everything else. 
